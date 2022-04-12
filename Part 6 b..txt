@@ -1,0 +1,10 @@
+b. Write a MySQL query to find the contact_name, 
+    contact_address, contact_mobile_no, 
+    contact_country from Contact table  where 
+    cntact_country="India"
+
+Query
+          select contact_name, 
+    contact_address, contact_mobile_no, 
+    contact_country  from Contact
+     where cntact_country="India"
