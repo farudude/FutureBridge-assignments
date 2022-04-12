@@ -28,7 +28,7 @@ public class Irctc {
 	static By drp_3tier= By.xpath("//*[@id=\"journeyClass\"]/div/div[4]/div/ul/p-dropdownitem[7]/li");
 	static By date = By.xpath("//*[@id=\"jDate\"]/span/input");
 	static By nxt_mnth=By.xpath("//*[@id=\"jDate\"]/span/div/div/div[1]/a[2]");
-	static By date1 = By.xpath("//*[@id=\"jDate\"]/span/div/div/div[2]/table/tbody/tr[2]/td[4]/a");
+	static By date1 = By.xpath("//*[@id=\"jDate\"]/span/div/div/div[2]/table/tbody/tr[2]/td[5]/a");
 	static By drp_quota= By.xpath("//*[@id='journeyQuota']/div/div[2]/span");
 	static By drp_quota_tatkal= By.xpath("//*[@id=\"journeyQuota\"]/div/div[4]/div/ul/p-dropdownitem[5]/li");
 	static By btn_search = By.xpath("//*[@id=\"divMain\"]/div/app-main-page/div/div/div[1]/div[1]/div[1]/app-jp-input/div/form/div[5]/div/button");
