@@ -1,0 +1,1 @@
+We can record load testing  by using blazemeter extension in chrome by recording the steps and assigning that file in jmeter
