@@ -1,0 +1,18 @@
+PART -3  Load Testing using Jmeter
+
+Go to URL http://blazedemo.com/. Using JMeter OR Neoload…
+a. Prepare Load Testing script for 10 users.
+b. Using a template of your choice create Load   
+    Testing Report ( Both Summary & Graphical) and 
+    explain the same.
+
+c. Take any API and do a load testing by passing     
+    parameters in csv. format. 
+d. For API based Application, how to pass Auth Token.
+e. How to record anapplication for load testing.
+
+a & b are are done using Jmeter by the given URL and the load was tested for 10 users and 30 users both results are shared in the folders Results (10 users) and for (10 Users in 3 loops) in Results 30
+
+c & d are done by using an API of weather and passing parameter like city and country by using a .csv file format and also in the same i have passed an authentication token saved in API folder
+
+e has been done by using blazemeter extension of chrome and same blazedemo url has been taken and load testing has been done and results are shown in the folder Blazemeter.
