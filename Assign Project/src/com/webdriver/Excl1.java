@@ -21,7 +21,7 @@ public class Excl1 {
 		XSSFWorkbook wb=new XSSFWorkbook(file1);
 		XSSFSheet sheet= wb.getSheet("sheet1");
 		
-		for(int i=1;i<=21;i++)
+		for(int i=1;i<=5;i++)
 		{
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\HP\\eclipse-workspace\\Assign Project\\Driver\\chromedriver.ex");
 		WebDriver driver= new ChromeDriver();
